@@ -5,7 +5,7 @@
 
 <h1 align='center'>hello, this is a little about me</h1>
 
-<p align='center'>Hi There, I'm Ramdani Official</p>
+<p align='center'>Hi There, I'm Rrsszxx Official</p>
 
 <p align='center'>
 
@@ -21,7 +21,7 @@
 
 <a href="https://www.instagram.com/muhammadramdani196453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cak_haho" height="30" width="40" /></a>
 
-<a href="https://wa.me/6289512545999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Ramdani Official" height="30" width="40" /></a>
+<a href="https://wa.me/62895328255152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Rrsszxx Official" height="30" width="40" /></a>
 
 
 </p>
