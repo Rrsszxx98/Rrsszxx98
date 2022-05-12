@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/Rrsszxx98" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align='center'>hello, this is a little about me</h1>
