@@ -35,9 +35,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=Ramdaniofficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=Rrsszxx98&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
-## Is My Project
-* WhatsApp Bot Normal [``]()
-* WhatsApp Bot Multi Device [``](https://github.com/)
 
 <!---
 Rrsszxx98/Rrsszxx98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
