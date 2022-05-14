@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/Rrsszxx98" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="//avatars.githubusercontent/Rrsszxx98" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align='center'>hello, this is a little about me</h1>
@@ -9,7 +9,7 @@
 
 <p align='center'>
 
-<a href="https://www.instagram.com/muhammadramdani196453"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rrsszxxofc"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 
 </p>
 
